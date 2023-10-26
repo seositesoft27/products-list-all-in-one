@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Products List All in One
- * Plugin URI:        https://seositesoft.com
+ * Plugin URI:        https://github.com/seositesoft27/products-list-all-in-one
  * Description:       Display all products in a list with shortcode.
  * Version:           1.0
  * Requires at least: 6.2
